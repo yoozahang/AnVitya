@@ -44,31 +44,6 @@
       font-size: 30px;
     }
   }
-
-  
-      @media all and (min-device-width:900px){
-      #grid{
-        display:grid;
-        grid-template-columns: 300px 1fr;
-      }
-      #AboutAnVitya {
-        padding-left: 10px;
-      }
-      h2{
-        margin:10px;
-        text-align: center;
-        font-size: 50px;
-      }
-      p{
-        margin-top: 10px;
-        margin-bottom: 10px;
-        text-align: center;
-        font-size: 30px;
-      }
-    }
-
-
-
   #contents ul {
     list-style-type: none;
     text-align:center;
